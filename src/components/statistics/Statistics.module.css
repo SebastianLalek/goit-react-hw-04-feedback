@@ -1,0 +1,7 @@
+.list {
+    list-style: none;
+}
+
+.list :last-child {
+font-weight: 600;
+}

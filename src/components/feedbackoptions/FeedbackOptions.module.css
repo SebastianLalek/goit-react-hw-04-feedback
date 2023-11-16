@@ -1,0 +1,12 @@
+.button {
+    background-color: rgb(87, 87, 255);
+    color: rgb(245, 245, 245);
+    border: none;
+    border-radius: 3px;
+    padding: 5px 18px;
+    margin: 5px;
+    font-size: 0.8em;
+    line-height: 1.5;
+    text-transform: capitalize;
+    cursor: pointer;
+}
