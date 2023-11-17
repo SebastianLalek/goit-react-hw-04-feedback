@@ -38,7 +38,7 @@ function Feedback() {
   }
 
   useEffect(countTotal, [good, neutral, bad]);
-  useEffect(countPositive, [total]);
+  useEffect(countPositive, [good, total]);
 
   return (
     <div>
